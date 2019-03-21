@@ -155,3 +155,11 @@ li:hover {
 .quote .box:hover {
     box-shadow: -20px 50px 100px rgba(0, 0, 0, .2);
 }
+
+a{
+    text-decoration: none;
+}
+
+a:visited {
+    color: white !important
+}
